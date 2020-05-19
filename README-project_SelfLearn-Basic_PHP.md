@@ -28,7 +28,6 @@ or you can download xampp(download apache server & php language in the xampp con
 	- if u choose to install mysql just simply open the automatic connection that already been create when you install mysql
 	- once u are in, click on File > Open Sql Script > Look up for file entitled database.sql > click icon run to execute
 	- the database would automatically create for u
-	- database name should be : 
 	
 2. phpAdmin database 
 	- Once install, run MySQL.
